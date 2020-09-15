@@ -21,3 +21,8 @@ In here:
 ## TeethGrowth Analysis
 
 Here you have my [Teeth growth analysis](teeth.html). In this analysis we explored how the tooth length of of guinea pigs depends on the supplement type, and the dose of said supplement. Later, we performed a brief permutation test. Enjoy! 
+
+## The circle of *Spinosaurus aegyptiacus*
+
+![S. aegyptiacus]("data/Spinosaurus_aegyptiacus.png")
+
