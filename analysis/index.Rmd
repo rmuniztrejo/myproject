@@ -24,5 +24,6 @@ Here you have my [Teeth growth analysis](teeth.html). In this analysis we explor
 
 ## The circle of *Spinosaurus aegyptiacus*
 
-![S. aegyptiacus]("data/Spinosaurus_aegyptiacus.png")
+Link to [Sheng Qian page](https://sq-96.github.io/Myproject/)
+
 
