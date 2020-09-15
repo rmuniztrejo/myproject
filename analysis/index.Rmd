@@ -10,7 +10,7 @@ editor_options:
 
 # myproject Ricardo
 
-Hi! This is *myproject* webpage
+Hi! This is *myproject* webpage, and my first time using of the **workflowr** package!
 
 In here:
 
@@ -18,4 +18,6 @@ In here:
 * ...
 * and I think that's it
 
+## TeethGrowth Analysis
 
+Here you have my [Teeth growth analysis](teeth.html). In this analysis we explored how the tooth length of of guinea pigs depends on the supplement type, and the dose of said supplement. Later, we performed a brief permutation test. Enjoy! 
