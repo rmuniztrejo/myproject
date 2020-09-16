@@ -27,3 +27,8 @@ Here you have my [Teeth growth analysis](teeth.html). In this analysis we explor
 Link to [Sheng Qian page](https://sq-96.github.io/Myproject/)
 
 
+![S. aegyptiacus](assets/Spinosaurus_aegyptiacus.png)
+
+
+
+
